@@ -26,3 +26,13 @@
 - **Frontend:** Vanilla JavaScript  
 - **Languages:** HTML5, CSS3, JavaScript  
 - **Tools:** Git, GitHub
+
+---
+
+## 🚀 Installation
+
+Clone the repository and run locally:
+
+```bash
+git clone https://github.com/yuvraj0651/Quiz-App-JS.git
+cd Quiz-App-JS
